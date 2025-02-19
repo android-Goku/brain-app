@@ -1,1 +1,1 @@
-This is brainly clone app
+This is brain-app.
