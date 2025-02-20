@@ -1,0 +1,15 @@
+    Backend: (Typescript, MongoDb, Express, JWT)
+
+First - figure out main apis:
+1. Sign up
+2. Sign in
+3. Add new content as brain-content
+4. Fetch all existing brain-content
+5. Delete a brain-content
+6. Create a sharable link for brain-content
+
+Second - Design the schema
+1. Users schema (username, password)
+2. Tags schema
+3. Content schema
+4. Links schema
