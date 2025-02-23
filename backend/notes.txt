@@ -13,3 +13,8 @@ Second - Design the schema
 2. Tags schema
 3. Content schema
 4. Links schema
+
+Third - Write the api skeletion
+
+Forth - Write the schemas (DataModel)
+
